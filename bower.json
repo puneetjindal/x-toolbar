@@ -1,0 +1,13 @@
+{
+  "name": "x-toolbar",
+  "homepage": "https://github.com/puneetjindal/x-toolbar",
+  "_release": "d5827f098d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d5827f098d669d3f0344b0aa03634fba1e194702"
+  },
+  "_source": "git://github.com/puneetjindal/x-toolbar.git",
+  "_target": "master",
+  "_originalSource": "puneetjindal/x-toolbar"
+}
